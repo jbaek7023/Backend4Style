@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/jaemin/Desktop/Lockerobe/asd"
+VIRTUAL_ENV="/home/jaemin/Desktop/Lockerobe/source_code"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
